@@ -1,1 +1,1 @@
-[FMG repo moved to https://github.com/Framtidsmediagruppen](https://github.com/Framtidsmediagruppen)
+[FMG repo moved to https://github.com/FutureMediaGroup](https://github.com/FutureMediaGroup)
