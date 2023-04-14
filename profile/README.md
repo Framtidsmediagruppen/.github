@@ -1,0 +1,1 @@
+[FMG repo moved to https://github.com/Framtidsmediagruppen](https://github.com/Framtidsmediagruppen)
